@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "name": "Big Mac",
+        "price": 255,
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Big-Mac-2:product-header-mobile?wid=768&hei=441&dpr=off"
+    },
+    {
+        "id": 2,
+        "name": "Elden Ring",
+        "price": 1355,
+        "img": "https://m.media-amazon.com/images/I/718Psopj65L.jpg"
+    },
+    {
+        "id": 3,
+        "name": "PS5",
+        "price":20660,
+        "img": "https://ideacdn.net/idea/jz/77/myassets/products/571/202400007.jpg?revision=1707732178"
+    },
+    {
+        "id": 4,
+        "name": "Xbox Series X",
+        "price": 13089,
+        "img": "https://bilcodirect.co.uk/wp-content/uploads/2022/05/Xbox-Series-X.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Xbox Oyun Kolu",
+        "price": 2384,
+        "img": "https://cdn.akakce.com/microsoft/xbox-one-s-kablosuz-z.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sony DualSense PS5 Oyun Kolu",
+        "price": 2683,
+        "img": "https://percdn.com/f/271833/b3NhVUoyVXA3TFZ3SzJGdEg4MXZKZWxESUE9PQ/p/sony-playstation-5-dualsense-wireless-controller-ps5-kablosuz-pembe-oyun-kolu-ithalatci-garantili--5.webp"
+    },
+    {
+        "id": 7,
+        "name": "Iphone 15",
+        "price": 50000,
+        "img": "https://st-troy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mu7f3tua-apple-iphone-15-pro-max-512gb-mavi-titanyum-mu7f3tua-638533716702735852.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Asus ROG Strix XG27UCS 1 ms 4K Pivot IPS",
+        "price": 16999,
+       "img": "https://cdn.akakce.com/z/asus/asus-rog-strix-xg259qns-24-5-0-3-ms-full-hd-g-sync-freesync-pivot-ips-oyuncu-u-2.jpg"
+    },
+    {
+        "id": 9,
+        "name": "At",
+        "price": 84721,
+       "img": "https://www.gelgez.net/wp-content/uploads/2019/07/atnal-nasil-evcillesti-gelgez-700x420.jpg"
+    },
+    {
+        "id": 10,
+        "name": "BMW 525d XDRİVE",
+        "price": 1435000,
+        "img": "https://i0.shbdn.com/photos/20/68/45/x5_1161206845hvp.jpg"
+    },
+    {
+        "id": 11,
+        "name": "X-CLUSIVE' BUGATTI CHIRON SUPER SPORT 2023",
+        "price": 165000000,
+        "img": "https://i0.shbdn.com/photos/05/72/69/x5_116305726989c.jpg"
+    },
+    {
+        "id": 12,
+        "name": "MERKAR - 2024 FERRARİ SF90 Spider",
+        "price": 87900000,
+        "img": "https://i0.shbdn.com/photos/59/18/59/x5_1191591859k49.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Yat",
+        "price": 254163750,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ8k2UCf1NX3Mm-Pdzc5lpwh01eEGZ5_KTfg&s"
+    },
+    {
+        "id": 14,
+        "name": "Boeing 747 (Vergi Dahil Değil)",
+        "price": 5015498000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Air_New_Zealand_B747-400_ZK-SUI_at_LHR.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Elmas Yüzük",
+        "price": 338885,
+        "img": "https://www.storks.com.tr/resim/urun/storks-elmas-yuzukler-395589-1650442832-1.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Mona Lisa",
+        "price": 26433030000,
+       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"
+    },
+    {
+        "id": 17,
+        "name": "SEADOO JETSKI 2024",
+        "price": 1260000,
+       "img": "https://ideacdn.net/idea/dk/71/myassets/products/285/430132461.jpg?revision=1708598036"
+    },
+    {
+        "id": 18,
+        "name": "Süper yat Faktoria Naval de Marin",
+        "price": 301300000,
+        "img": "https://images.herando.com/yachts/123798/455663_1.webp"
+    },
+    {
+        "id": 19,
+        "name": "M1 Abrams(Vergi Dahil Değil)",
+        "price": 271108000,
+        "img": "https://images05.military.com/sites/default/files/media/equipment/military-vehicles/m1a2-abrams-main-battle-tank/2014/02/m1a2-abrams-battle-tank-08.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Boğaziçi Köprüsü",
+        "price": 737897789,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bosphorus_Bridge.jpg/640px-Bosphorus_Bridge.jpg"
+    }
+    
+]

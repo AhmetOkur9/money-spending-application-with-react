@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name":"Bill Gates",
+        "money":3000000000000
+    },
+    {
+        "id": 2,
+        "name":"Burak Demir",
+        "money":22000
+    },
+    {
+        "id": 3,
+        "name":"Alaaddin Ayar",
+        "money":14000
+    },
+    {
+        "id": 4,
+        "name":"Ahmet Kaan Okur",
+        "money":9999999999999999999
+    },
+    {
+        "id": 5,
+        "name":"Elon Musk",
+        "money":83772400000000
+    },
+    {
+        "id": 6,
+        "name":"Martı Tag Kurucusu",
+        "money":2123000
+    },
+    {
+        "id": 7,
+        "name":"Jeff Bezos",
+        "money":6628900000000
+    }
+]

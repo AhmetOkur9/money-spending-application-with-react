@@ -1,0 +1,9 @@
+.clear-basket-button{
+    width: 8rem;
+    height: 2rem;
+    border: none;
+}
+
+.clear-basket-button:hover{
+    background-color: rgb(44, 223, 44);
+}
