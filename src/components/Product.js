@@ -1,5 +1,3 @@
-import { useState } from "react"
-
 import "../css/productCard.css"
 
 
@@ -39,6 +37,13 @@ function Product({ product, basket, setBasket, money, setMoney, total }) {
         return formattedNumber
     }
 
+    function controlAmount(){
+        if(basketItem){
+            return basketItem.amount
+        }else{
+            return 0
+        }
+    }
 
     return (
         <div className="product-card">
@@ -52,7 +57,7 @@ function Product({ product, basket, setBasket, money, setMoney, total }) {
             </div>
             <div className="buy-div">
                 <button className="sell-button" disabled={!basketItem} onClick={removeBasket}>Sat</button>
-                <h2 className="amount-info">{basketItem && basketItem.amount || 0}</h2>
+                <h2 className="amount-info">{controlAmount()}</h2>
                 <button className="buy-button" disabled={total + product.price > money} onClick={e => addBasket(e)}>Satın Al</button>
             </div>
         </div>
